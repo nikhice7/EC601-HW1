@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# Almost all python programs are asking for cv2 . Please provide the path for add it...
+
 '''
 face detection using haar cascades
 
